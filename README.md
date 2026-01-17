@@ -1,6 +1,3 @@
-# CS - THEORY AND EXPERIMENTS
+# CS - TEORÍA Y EXPERIMENTOS
 
-In this repository i will upload and maintain theory papers/scrips of the different topics im studying about. As of right now, im only working with python. In here you can find valuable information about:
-Basic Python functions, dictionaries, regex, and txt documents theory and examples.
-
-NOTE: Its all written in spanish.
+En este repositorio subiré y mantendré apuntes teóricos y scripts de los diferentes temas que estoy estudiando. Por ahora, solo estoy trabajando con Python. Aquí podrás encontrar información valiosa sobre: funciones básicas de Python, diccionarios, regex, y teoría y ejemplos de documentos de texto (txt).
